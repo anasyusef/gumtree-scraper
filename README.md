@@ -1,5 +1,7 @@
 # gumtree-scraper
 
+Gumtree Scraper Version 1.7
+
 Features
 
 * Let you scrape information based on the keyword entered
